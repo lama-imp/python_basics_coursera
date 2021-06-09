@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.txt
+12_cockroaches.py
+24_gentree.py
+37_bowling.py
+_test.py
